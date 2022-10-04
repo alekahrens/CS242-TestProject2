@@ -22,5 +22,6 @@ public class HelloMain {
          */
         //The following line prints out "Hello World"
         System.out.println("Hello World");
+        System.out.println("Hello from Person B.");
     }
 }
